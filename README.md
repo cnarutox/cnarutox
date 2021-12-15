@@ -1,6 +1,35 @@
 ## Hi there 👋 cnarutox
+
+![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![img](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![img](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![img](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![img](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![img](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![img](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+![CUDA](https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![img](https://img.shields.io/badge/Algorithm-Data%20Structures-brightgreen)
+
 - 🔭 𝑰’𝒎 𝑿𝒖 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏 𝒎𝒚 𝒇𝒊𝒓𝒔𝒕 𝒚𝒆𝒂𝒓'𝒔 𝒎𝒂𝒔𝒕𝒆𝒓'𝒔 𝒅𝒆𝒈𝒓𝒆𝒆.
 - :office: 𝑰 𝒉𝒂𝒗𝒆 𝒎𝒐𝒓𝒆 𝒕𝒉𝒂𝒏 1-𝒚𝒆𝒂𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒔𝒉𝒊𝒑 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑩𝒚𝒕𝒆𝒅𝒂𝒏𝒄𝒆 [<img src='https://cdn.worldvectorlogo.com/logos/bytedance-1.svg' alt='github' height='20'>](https://cdn.worldvectorlogo.com/logos/bytedance-1.svg) 𝒂𝒏𝒅 𝑱𝒊𝒔𝒖𝒂𝒏𝒌𝒆 [<img src='https://www.jisuanke.com/v3/favicon.ico' alt='github' height='25'>]()
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnarutox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
