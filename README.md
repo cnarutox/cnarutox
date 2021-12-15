@@ -1,4 +1,4 @@
-## Hi there 👋 cnarutox
+## Hi 👋 this is cnarutox
 
 ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -22,18 +22,19 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
-![CUDA](https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![img](https://img.shields.io/badge/Algorithm-Data%20Structures-brightgreen)
 
 - 🔭 𝑰’𝒎 𝑿𝒖 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏 𝒎𝒚 𝒇𝒊𝒓𝒔𝒕 𝒚𝒆𝒂𝒓'𝒔 𝒎𝒂𝒔𝒕𝒆𝒓'𝒔 𝒅𝒆𝒈𝒓𝒆𝒆.
 - :office: 𝑰 𝒉𝒂𝒗𝒆 𝒎𝒐𝒓𝒆 𝒕𝒉𝒂𝒏 1-𝒚𝒆𝒂𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒔𝒉𝒊𝒑 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑩𝒚𝒕𝒆𝒅𝒂𝒏𝒄𝒆 [<img src='https://cdn.worldvectorlogo.com/logos/bytedance-1.svg' alt='github' height='20'>](https://cdn.worldvectorlogo.com/logos/bytedance-1.svg) 𝒂𝒏𝒅 𝑱𝒊𝒔𝒖𝒂𝒏𝒌𝒆 [<img src='https://www.jisuanke.com/v3/favicon.ico' alt='github' height='25'>]()
 
+<div align="center" style="justify-content:center; align-items:center; display:-webkit-flex;"><img src="https://github-readme-stats.vercel.app/api?username=cnarutox&show_icons=true&theme=vue&include_all_commits=true&count_private=true">⚡⚡</img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnarutox&layout=compact&count_private=true"></img>
+</div>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnarutox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnarutox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnarutox&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnarutox&show_icons=true&theme=vue&include_all_commits=true&count_private=true) -->
 
 
 
@@ -42,9 +43,12 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cnarutox)  
 
-<!-- ![Profile views](https://gpvc.arturio.dev/cnarutox)   -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cnarutox&left_text=MyPageVisitors)
+![Profile views](https://gpvc.arturio.dev/cnarutox)  
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cnarutox&left_text=MyPageVisitors) -->
 
+
+![https://www.linkedin.com/in/cnarutox/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://chenwx.com/](https://img.shields.io/badge/portfolio-F88900?style=for-the-badge&logo=rss&logoColor=white)
 
 <!--
 **cnarutox/cnarutox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
