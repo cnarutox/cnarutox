@@ -26,6 +26,8 @@
 
 ![img](https://img.shields.io/badge/Algorithm-Data%20Structures-brightgreen)
 
+AI/Machine Learning
+
 - 🔭 𝑰’𝒎 𝑿𝒖 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏 𝒎𝒚 𝒇𝒊𝒓𝒔𝒕 𝒚𝒆𝒂𝒓'𝒔 𝒎𝒂𝒔𝒕𝒆𝒓'𝒔 𝒅𝒆𝒈𝒓𝒆𝒆.
 - :office: 𝑰 𝒉𝒂𝒗𝒆 𝒎𝒐𝒓𝒆 𝒕𝒉𝒂𝒏 1-𝒚𝒆𝒂𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒔𝒉𝒊𝒑 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑩𝒚𝒕𝒆𝒅𝒂𝒏𝒄𝒆 [<img src='https://cdn.worldvectorlogo.com/logos/bytedance-1.svg' alt='github' height='20'>](https://cdn.worldvectorlogo.com/logos/bytedance-1.svg) 𝒂𝒏𝒅 𝑱𝒊𝒔𝒖𝒂𝒏𝒌𝒆 [<img src='https://www.jisuanke.com/v3/favicon.ico' alt='github' height='25'>]()
 
